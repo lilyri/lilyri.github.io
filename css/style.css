@@ -42,8 +42,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  font-family: Microsoft YaHei UI;
-  color: #1f2f98;
+  font-family: candara;
   line-height: normal;
   max-height: none;
   min-height: 0px;
@@ -65,13 +64,13 @@ h3 {
 }
 
 h4 {
-  font-size: 0.8em;
-  font-family: Microsoft YaHei UI;
+  font-size: 2em;
+  font-family: candara;
   line-height: normal;
   max-height: none;
   min-height: 0px;
-  font-weight: bold;
-  text-align: left;
+  font-weight: lighter;
+  text-align: center;
   margin-top: 0;
 
 }
@@ -95,6 +94,7 @@ h6 {
   font-weight: normal;
   text-align: left;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 p {font-size: 1em;
