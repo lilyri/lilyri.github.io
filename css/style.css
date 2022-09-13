@@ -187,6 +187,11 @@ section {
     margin: 0 auto;
 }
 
+.container2 {
+  max-width: 840px;
+  margin: 0 auto;
+}
+
 .thumbgrid {
   padding: 0;
   display: flex;
@@ -217,5 +222,14 @@ section {
 .thumbgrid a:hover img {
     filter: brightness(1);
     border: 1px solid rgba(0,0,0,.3);
+}
+
+/* Two image containers (use 50% for each) */
+.one-half {
+  width: 50%;
+}
+
+.row {
+  display: flex;
 }
 
